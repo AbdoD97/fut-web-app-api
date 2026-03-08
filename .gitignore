@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Logs
+logs/
+
+# Virtual env
+venv/
+.venv/
+
+# IDE
+.vscode/
+*.code-workspace
+
+# Local settings
+.claude/
+
+# Source code (not published)
+js/
+cdp/
+core/
+safety/
+data/
+*.py
+*.bat
+*.txt
+*.json
+
+# OS
+.DS_Store
+Thumbs.db
